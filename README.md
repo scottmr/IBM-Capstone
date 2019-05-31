@@ -1,2 +1,2 @@
-# IMB-Capstone
+# IBM-Capstone
 Final project
