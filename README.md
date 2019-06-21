@@ -10,5 +10,5 @@ I’ll be focusing on the Big Apple (NYC) in looking for a place to open a resta
 
 2.	A description of the data and how it will be used to solve the problem.
 
-The data I’ll be using will be from two sources. One is a free data source from NYU Spatial Data Repository -https://geo.nyu.edu/catalog/nyu_2451_34572. The other will be data from Foursquare. The foursquare data will be used to obtain the location of Carnegie Hall-which sits smack dab in the middle of Billionaires Row-as that area really isn’t a neighborhood per se. Also, I’ll be using their restaurant ratings to see if there are types of cuisine with less than favorable ratings that one could capitalize on. Or to also see which types of food might have no representation in those two areas.
+The data I’ll be using will be from two sources. One is a free data source from NYU Spatial Data Repository -https://geo.nyu.edu/catalog/nyu_2451_34572. The other will be data from Foursquare. The Foursquare data will be used to obtain the location of Carnegie Hall-which sits smack dab in the middle of Billionaires Row-as that area really isn’t a neighborhood per se. Also, I’ll be using their restaurant ratings to see if there are types of cuisine with less than favorable ratings that one could capitalize on. Or to also see which types of food might have little or no representation in those two areas.
 
